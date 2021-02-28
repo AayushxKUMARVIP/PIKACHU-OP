@@ -197,18 +197,18 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                             text=" ⚡ ѕσυя¢є ¢σ∂є ",
-                            url="https://t.me/pro_masti"),
+                            url="https://t.me/we_are_FriendsForeverVIP"),
                          InlineKeyboardButton(
                             text=" ❤️ Channel ",
-                             url="https://t.me/pikachubotupdates")        
+                             url="https://t.me/we_are_FriendsForeverVIP")        
                       ],
                       [ 
                         InlineKeyboardButton(
                              text=" ✨ Support ",
-                             url="https://t.me/pikachubotsupport"),
+                             url="https://t.me/we_are_FriendsForeverVIP"),
                         InlineKeyboardButton(
                              text=" 👨‍💻 Creator ",
-                             url="https://t.me/PYTHON_CODER_SRINIVAS")
+                             url="https://t.me/Itz_Ayaan67")
                     
                     ]]))
     else:
