@@ -197,7 +197,7 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                             text=" ⚡ ѕσυя¢є ¢σ∂є ",
-                            url="https://t.me/we_are_FriendsForeverVIP"),
+                            url="https://github.com/AayushxKUMARVIP/PIKACHU-OP"),
                          InlineKeyboardButton(
                             text=" ❤️ Channel ",
                              url="https://t.me/we_are_FriendsForeverVIP")        
